@@ -1,0 +1,5 @@
+bin/listgen
+bin/listgen.dbg
+bin/listgen*.tar.gz
+src/backup/*
+src/lib/*

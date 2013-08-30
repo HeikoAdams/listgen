@@ -1,0 +1,67 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: TFORM1.BTNSTART.CAPTION
+msgctxt "TFORM1.BTNSTART.CAPTION"
+msgid "&Start"
+msgstr ""
+
+#: TFORM1.CBXFILTER.TEXT
+msgctxt "TFORM1.CBXFILTER.TEXT"
+msgid "*.jpg"
+msgstr ""
+
+#: TFORM1.FORM1.CAPTION
+msgctxt "TFORM1.FORM1.CAPTION"
+msgid "Xfce Imagelist Creator"
+msgstr ""
+
+#: TFORM1.LBLFILTER.CAPTION
+msgctxt "TFORM1.LBLFILTER.CAPTION"
+msgid "Filter"
+msgstr ""
+
+#: TFORM1.LBLNAME.CAPTION
+msgctxt "TFORM1.LBLNAME.CAPTION"
+msgid "Listenname"
+msgstr ""
+
+#: TFORM1.LBLPATH.CAPTION
+msgctxt "TFORM1.LBLPATH.CAPTION"
+msgid "Bilder-Pfad"
+msgstr ""
+
+#: TFRMMAIN.BTNCLOSE.CAPTION
+msgid "&Schließen"
+msgstr ""
+
+#: TFRMMAIN.BTNSTART.CAPTION
+msgctxt "TFRMMAIN.BTNSTART.CAPTION"
+msgid "&Start"
+msgstr ""
+
+#: TFRMMAIN.CBXFILTER.TEXT
+msgctxt "TFRMMAIN.CBXFILTER.TEXT"
+msgid "*.jpg"
+msgstr ""
+
+#: TFRMMAIN.FRMMAIN.CAPTION
+msgctxt "TFRMMAIN.FRMMAIN.CAPTION"
+msgid "Xfce Imagelist Creator"
+msgstr ""
+
+#: TFRMMAIN.LBLFILTER.CAPTION
+msgctxt "TFRMMAIN.LBLFILTER.CAPTION"
+msgid "Filter"
+msgstr ""
+
+#: TFRMMAIN.LBLNAME.CAPTION
+msgctxt "TFRMMAIN.LBLNAME.CAPTION"
+msgid "Listenname"
+msgstr ""
+
+#: TFRMMAIN.LBLPATH.CAPTION
+msgctxt "TFRMMAIN.LBLPATH.CAPTION"
+msgid "Bilder-Pfad"
+msgstr ""
+

@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <General>
+      <MainUnit Value="0"/>
+      <Title Value="Xfce Imagelist Creator"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N Value="True"/>
+      <OutDir Value="po"/>
+    </i18n>
+    <VersionInfo>
+      <UseVersionInfo Value="True"/>
+      <AutoIncrementBuild Value="True"/>
+      <MinorVersionNr Value="2"/>
+      <BuildNr Value="6"/>
+      <Language Value="0407"/>
+      <StringTable CompanyName="Heiko Adams" FileDescription="Tool for creating imagelists for Xfce backgrounds" InternalName="listgen" OriginalFilename="listgen" ProductName="Xfce Imagelist Creator" ProductVersion="0.1"/>
+    </VersionInfo>
+    <BuildModes Count="1" Active="Default">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="listgen.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="listgen"/>
+        <UsageCount Value="23"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainwin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="mainwin"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="65"/>
+        <CursorPos X="1" Y="73"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="/usr/lib/lazarus/lcl/forms.pp"/>
+        <UnitName Value="Forms"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1016"/>
+        <CursorPos X="25" Y="1029"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="/usr/lib/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="152"/>
+        <CursorPos X="14" Y="173"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/rtl/inc/systemh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="764"/>
+        <CursorPos X="11" Y="777"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../tiban/IBAN.pas"/>
+        <UnitName Value="IBAN"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="280"/>
+        <CursorPos X="6" Y="299"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="74" Column="11" TopLine="53"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="61" TopLine="60"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="70" Column="1" TopLine="60"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="1" TopLine="60"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="75" Column="1" TopLine="60"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="77" Column="1" TopLine="60"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="80" Column="1" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="83" Column="1" TopLine="69"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="84" Column="1" TopLine="69"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="86" Column="1" TopLine="69"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="87" Column="1" TopLine="69"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="70" Column="1" TopLine="65"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="80" Column="1" TopLine="65"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="83" Column="1" TopLine="65"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="84" Column="1" TopLine="65"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="86" Column="1" TopLine="65"/>
+      </Position16>
+      <Position17>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="87" Column="1" TopLine="66"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="70" Column="1" TopLine="65"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="1" TopLine="65"/>
+      </Position19>
+      <Position20>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="74" Column="1" TopLine="65"/>
+      </Position20>
+      <Position21>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="75" Column="1" TopLine="65"/>
+      </Position21>
+      <Position22>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="1" TopLine="65"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="74" Column="1" TopLine="65"/>
+      </Position23>
+      <Position24>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="75" Column="1" TopLine="65"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="1" TopLine="65"/>
+      </Position25>
+      <Position26>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="74" Column="1" TopLine="65"/>
+      </Position26>
+      <Position27>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="75" Column="1" TopLine="65"/>
+      </Position27>
+      <Position28>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="73" Column="1" TopLine="65"/>
+      </Position28>
+      <Position29>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="74" Column="1" TopLine="65"/>
+      </Position29>
+      <Position30>
+        <Filename Value="mainwin.pas"/>
+        <Caret Line="75" Column="1" TopLine="65"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="9"/>
+    <Target>
+      <Filename Value="../bin/listgen"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+      <Checks>
+        <IOChecks Value="True"/>
+        <RangeChecks Value="True"/>
+        <OverflowChecks Value="True"/>
+        <StackChecks Value="True"/>
+      </Checks>
+      <VerifyObjMethodCallValidity Value="True"/>
+      <SmallerCode Value="True"/>
+      <Optimizations>
+        <VariablesInRegisters Value="True"/>
+        <UncertainOptimizations Value="True"/>
+        <OptimizationLevel Value="3"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <StripSymbols Value="True"/>
+        <UseExternalDbgSyms Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <UseMsgFile Value="True"/>
+        <MsgFileName Value="/usr/lib/fpc/2.4.2/msg/errord.msg"/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="aDir"/>
+      </Item1>
+      <Item2>
+        <Expression Value="SearchRec.Name"/>
+      </Item2>
+      <Item3>
+        <Expression Value="sPath"/>
+      </Item3>
+    </Watches>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
